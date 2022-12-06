@@ -1,0 +1,4 @@
+
+#!/bin/bash
+echo "Name: ls"
+echo "Value: rm"
